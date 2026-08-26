@@ -99,15 +99,15 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
-  "AVYAN": {
-    "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance",
-    "internalSector": "Microfinance Index"
-  },
   "AVYANP": {
     "name": "Aviyan Laghubitta Bittiya Sanstha Limited Promoter",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "AVYAN": {
+    "name": "Aviyan Laghubitta Bittiya Sanstha Limited",
+    "sector": "Microfinance",
+    "internalSector": "Microfinance Index"
   },
   "BHL": {
     "name": "Balephi Hydropower Limited",
@@ -334,15 +334,15 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "CYCLP": {
-    "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited Promoter",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
   "CYCL": {
     "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited",
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
+  },
+  "CYCLP": {
+    "name": "CYC Nepal Laghubitta Bittiya Sanstha Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "DHEL": {
     "name": "Daramkhola Hydro Energy Limited",
@@ -399,13 +399,13 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "EBLD86": {
-    "name": "Everest Bank Limited",
+  "EBLD85": {
+    "name": "10.50% Everest Bank Limited Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "EBLD85": {
-    "name": "10.50% Everest Bank Limited Debenture 2085",
+  "EBLD86": {
+    "name": "Everest Bank Limited",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -919,13 +919,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD90": {
-    "name": "10% KBL Debenture 2090",
+  "KSY": {
+    "name": "Kumari Sabal Yojana",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KSY": {
-    "name": "Kumari Sabal Yojana",
+  "KBLD90": {
+    "name": "10% KBL Debenture 2090",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1304,13 +1304,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBF3": {
-    "name": "Nabil Balanced Fund-3",
+  "NBLD85": {
+    "name": "Nabil Debenture 2085",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NBLD85": {
-    "name": "Nabil Debenture 2085",
+  "NBF3": {
+    "name": "Nabil Balanced Fund-3",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1634,11 +1634,6 @@
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
   },
-  "NICD83/84": {
-    "name": "10.25% NIC Asia Debenture 2083/84",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
   "NICAD85/86": {
     "name": "10% NIC Asia Debenture 2085/86",
     "sector": "Commercial Banks",
@@ -1864,6 +1859,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "PBD84": {
+    "name": "10.15% Prime Debenture 2084",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "PBD85": {
     "name": "8.75 % Prime Debenture 2085",
     "sector": "Commercial Banks",
@@ -1871,11 +1871,6 @@
   },
   "PBD88": {
     "name": "10% Prime Debenture 2088",
-    "sector": "Commercial Banks",
-    "internalSector": "Banking SubIndex"
-  },
-  "PBD84": {
-    "name": "10.15% Prime Debenture 2084",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2119,13 +2114,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SANIMAPNP": {
-    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
+  "SAEF2": {
+    "name": "Sanima Equity Fund-2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SAEF2": {
-    "name": "Sanima Equity Fund-2",
+  "SANIMAPNP": {
+    "name": "8.25% Sanima Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -2334,13 +2329,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SEF2": {
-    "name": "Siddhartha Equity Fund 2",
+  "SBLPNP": {
+    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "SBLPNP": {
-    "name": "SBL 8.25% Perpetual Non Cumulative Preference Share",
+  "SEF2": {
+    "name": "Siddhartha Equity Fund 2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
