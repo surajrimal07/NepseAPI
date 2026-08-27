@@ -269,6 +269,11 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
+  "CLIP": {
+    "name": "Citizen Life Insurance Company Limited promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
   "C30MF": {
     "name": "Citizens Super 30 Mutual Fund",
     "sector": "Commercial Banks",
@@ -709,6 +714,11 @@
     "sector": "Others",
     "internalSector": "Others Index"
   },
+  "HRLP": {
+    "name": "Himalayan Reinsurance Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
   "HIMSTAR": {
     "name": "Him Star Urja Company Limited",
     "sector": "Hydro Power",
@@ -754,13 +764,13 @@
     "sector": "Finance",
     "internalSector": "Finance Index"
   },
-  "ICFCD89": {
-    "name": "8% ICFC Finance Limited Debenture 2089",
+  "ICFCD88": {
+    "name": "9% ICFC Finance Limited Debenture 2088",
     "sector": "Finance",
     "internalSector": "Finance Index"
   },
-  "ICFCD88": {
-    "name": "9% ICFC Finance Limited Debenture 2088",
+  "ICFCD89": {
+    "name": "8% ICFC Finance Limited Debenture 2089",
     "sector": "Finance",
     "internalSector": "Finance Index"
   },
@@ -899,13 +909,13 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "KEF": {
-    "name": "Kumari Equity Fund",
+  "KBLD86": {
+    "name": "10.25% KBL Debenture 2086",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "KBLD86": {
-    "name": "10.25% KBL Debenture 2086",
+  "KEF": {
+    "name": "Kumari Equity Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1469,13 +1479,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NIBSF2": {
-    "name": "NIBL Samriddhi Fund -2",
+  "NIBD84": {
+    "name": "8.5% Nepal Investment Bank Debenture 2084",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "NIBD84": {
-    "name": "8.5% Nepal Investment Bank Debenture 2084",
+  "NIBSF2": {
+    "name": "NIBL Samriddhi Fund -2",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1739,11 +1749,6 @@
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
-  "NMB50": {
-    "name": "NMB 50",
-    "sector": "Mutual Fund",
-    "internalSector": "Mutual Fund"
-  },
   "NRN": {
     "name": "NRN Infrastructure and Development Limited",
     "sector": "Investment",
@@ -1809,13 +1814,13 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PSF": {
-    "name": "Prabhu Select Fund",
+  "PBLD84": {
+    "name": "10% Prabhu Bank Debenture 2084 ",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
-  "PBLD84": {
-    "name": "10% Prabhu Bank Debenture 2084 ",
+  "PSF": {
+    "name": "Prabhu Select Fund",
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
@@ -1929,13 +1934,13 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "RMF1": {
-    "name": "RBB Mutual Fund 1",
+  "RMF2": {
+    "name": "RBB Mutual Fund 2",
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
-  "RMF2": {
-    "name": "RBB Mutual Fund 2",
+  "RMF1": {
+    "name": "RBB Mutual Fund 1",
     "sector": "Mutual Fund",
     "internalSector": "Mutual Fund"
   },
@@ -1958,6 +1963,11 @@
     "name": "Reliable Nepal Life Insurance Limited",
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
+  },
+  "RNLIP": {
+    "name": "Reliable Nepal Life Insurance Limited Promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "RLFL": {
     "name": "Reliance Finance Ltd.",
@@ -2033,6 +2043,11 @@
     "name": "Salapa Bikas Bank Limited",
     "sector": "Development Banks",
     "internalSector": "Development Bank Ind."
+  },
+  "SABBLP": {
+    "name": "Salapa Bikas Bank Limited Promoter Share",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
   },
   "STC": {
     "name": "Salt Trading Corporation",
@@ -2414,6 +2429,11 @@
     "sector": "Life Insurance",
     "internalSector": "Life Insurance"
   },
+  "SNLIP": {
+    "name": "Sun Nepal Life Insurance Company Limited promoter",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
   "SBCF": {
     "name": "Sunrise Bluechip Fund",
     "sector": "Commercial Banks",
@@ -2514,6 +2534,11 @@
     "sector": "Microfinance",
     "internalSector": "Microfinance Index"
   },
+  "SWASTIKP": {
+    "name": "Swastik Laghubitta Bittiya Sanstha Limited Promoter Share",
+    "sector": "Promoter Share",
+    "internalSector": "Promoter Share"
+  },
   "SGHC": {
     "name": "Swet-Ganga Hydropower & Construction Limited ",
     "sector": "Hydro Power",
@@ -2569,15 +2594,15 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "UNLB": {
-    "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance",
-    "internalSector": "Microfinance Index"
-  },
   "UNLBP": {
     "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited Promoter",
     "sector": "Promoter Share",
     "internalSector": "Promoter Share"
+  },
+  "UNLB": {
+    "name": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
+    "sector": "Microfinance",
+    "internalSector": "Microfinance Index"
   },
   "UAILPO": {
     "name": "United Ajod Insurance Limited Promoter Share",
