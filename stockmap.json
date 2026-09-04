@@ -2684,16 +2684,6 @@
     "sector": "Hydro Power",
     "internalSector": "HydroPower Index"
   },
-  "WNLB": {
-    "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
-    "sector": "Microfinance",
-    "internalSector": "Microfinance Index"
-  },
-  "WNLBP": {
-    "name": "Wean Nepal Laghubitta Bittiya Sanstha Limited Promoter Share",
-    "sector": "Promoter Share",
-    "internalSector": "Promoter Share"
-  },
   "YMHL": {
     "name": "Yambaling Hydropower Limited",
     "sector": "Hydro Power",
