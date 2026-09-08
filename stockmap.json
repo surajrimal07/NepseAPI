@@ -1864,6 +1864,11 @@
     "sector": "Commercial Banks",
     "internalSector": "Banking SubIndex"
   },
+  "PBD93": {
+    "name": "6.25% Prime Bank Debenture, 2093",
+    "sector": "Commercial Banks",
+    "internalSector": "Banking SubIndex"
+  },
   "PBD84": {
     "name": "10.15% Prime Debenture 2084",
     "sector": "Commercial Banks",
